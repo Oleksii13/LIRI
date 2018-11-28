@@ -1,5 +1,5 @@
-# ** LIRI **
-> ### ** Like SIRI but LIRI ** ###
+# **LIRI**
+> ### **Like SIRI but LIRI** ###
 
 As you can see from the top, I made basic search-bot version of the SIRI. 
 Here you can search 3 different topics:

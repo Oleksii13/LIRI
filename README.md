@@ -1,5 +1,5 @@
-# **LIRI**
->### **Like SIRI but LIRI **###
+# ** LIRI **
+> ### ** Like SIRI but LIRI ** ###
 
 As you can see from the top, I made basic search-bot version of the SIRI. 
 Here you can search 3 different topics:
@@ -10,7 +10,7 @@ Here you can search 3 different topics:
 
 ### Let's begin with explanation how LIRI works. ###
 
-Because I used Node.js for this project, you have to go to Terminal and type comand `<abbr>`node liri.js
+Because I used Node.js for this project, you have to go to Terminal and type comand `node liri.js`
 
 
 

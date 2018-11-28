@@ -3,9 +3,9 @@
 
 As you can see from the top, I made a basic search-bot version of the SIRI. 
 Here you can search 3 different topics:
-1.Artist/Band search.
-2.Song search.
-3.Movie search.
+1. Artist/Band search.
+2. Song search.
+3. Movie search.
 4. It will search for default information, which you specified prior in the random.txt
 
 ### Let's begin with explanation how LIRI works. ###
@@ -94,11 +94,11 @@ By the way, LIRI logs all inpust and results by default:
 ![log](https://github.com/Oleksii13/LIRI/blob/master/print_screen/log.png)
 
 For this project I used npm packages:
-1.[axios](https://www.npmjs.com/package/axios)
-2.[dotenv](https://www.npmjs.com/package/dotenv)
-3.[inquirer](https://www.npmjs.com/package/inquirer/v/6.0.0) 
-4.[moment](https://www.npmjs.com/package/moment)
-5.[node-spotify-api](https://www.npmjs.com/package/node-spotify-api)
+1. [axios](https://www.npmjs.com/package/axios)
+2. [dotenv](https://www.npmjs.com/package/dotenv)
+3. [inquirer](https://www.npmjs.com/package/inquirer/v/6.0.0) 
+4. [moment](https://www.npmjs.com/package/moment)
+5. [node-spotify-api](https://www.npmjs.com/package/node-spotify-api)
 
 You have to install them with the command `npm install` prior to use the programme.
 

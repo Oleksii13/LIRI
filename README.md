@@ -12,5 +12,5 @@ Here you can search 3 different topics:
 
 Because I used Node.js for this project, you have to go to Terminal and type comand `node liri.js`
 
-
+![start](https://github.com/Oleksii13/LIRI/tree/master/print_screen/start.png)
 
